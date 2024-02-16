@@ -9,6 +9,6 @@ Fique à vontade para acompanhar as postagens, mas tenha em mente que não sou f
 
 Aqui as postagens sairão terças, quintas e sábados às 9 horas da manhã no horário de brasília.
 
-Se quiser entrar em contato, pode mandar um e-mail para seekerofenglish@gmail.com
+Se quiser entrar em contato, pode mandar um e-mail para seekerofenglish@gmail.com e eu retorno a mensagem na próxima segunda-feira.
 
 Até mais!
