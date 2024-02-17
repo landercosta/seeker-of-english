@@ -1,7 +1,7 @@
 ---
 title: Aplicação em uma frase
 author: Lander Costa
-pubDatetime: 2024-02-17T09:00:00-03:00
+pubDatetime: 2024-02-17T09:00:00Z
 slug: 02-aplicação-em-uma-frase
 featured: false
 draft: false
