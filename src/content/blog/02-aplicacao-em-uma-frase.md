@@ -2,7 +2,7 @@
 title: Aplicação em uma frase
 author: Lander Costa
 pubDatetime: 2024-02-17T09:00:00Z
-slug: 02-aplicação-em-uma-frase
+slug: 02-aplicacao-em-uma-frase
 featured: false
 draft: false
 tags:
