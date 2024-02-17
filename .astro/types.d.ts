@@ -182,16 +182,9 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
-"02-aplicação-em-uma-frase copy.md": {
-	id: "02-aplicação-em-uma-frase copy.md";
-  slug: "02-aplicação-em-uma-frase";
-  body: string;
-  collection: "blog";
-  data: InferEntrySchema<"blog">
-} & { render(): Render[".md"] };
-"03-futuroparateste.md": {
-	id: "03-futuroparateste.md";
-  slug: "02-futuro-para-teste";
+"02-aplicacao-em-uma-frase.md": {
+	id: "02-aplicacao-em-uma-frase.md";
+  slug: "aplicacao-em-uma-frase";
   body: string;
   collection: "blog";
   data: InferEntrySchema<"blog">
