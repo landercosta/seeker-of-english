@@ -34,7 +34,7 @@ O próprio dicionário de Cambridge mostra algumas aplicações:
 - Despite the wind and the rain, they plodded on until they reached the cabin.
 - For years, he's plodded away at the same dull routine job.
 
-Ao tentar criar algumas frases de minha própria autoria para treinar essa habilidade como relatado na postagem [aplicação em uma frase](./aplicacao-em-uma-frase/), cheguei aos seguintes resultados:
+Ao tentar criar algumas frases de minha própria autoria para treinar essa habilidade como relatado na postagem [aplicação em uma frase](../aplicacao-em-uma-frase/), cheguei aos seguintes resultados:
 - I always plod in the ground when it’s raining.
 - My job is very boring and I’m plodding on it for years.
 
