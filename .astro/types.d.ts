@@ -189,6 +189,13 @@ declare module 'astro:content' {
   collection: "blog";
   data: InferEntrySchema<"blog">
 } & { render(): Render[".md"] };
+"03-vocabulário-plod.md": {
+	id: "03-vocabulário-plod.md";
+  slug: "vocabulario-plod";
+  body: string;
+  collection: "blog";
+  data: InferEntrySchema<"blog">
+} & { render(): Render[".md"] };
 };
 
 	};

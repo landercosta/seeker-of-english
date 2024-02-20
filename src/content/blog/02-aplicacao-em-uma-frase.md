@@ -8,7 +8,7 @@ featured: false
 draft: false
 tags:
   - estratégias
-description: Apresentação do blog
+description: Dica para aprender inglês. Aplicar um termo em uma frase para melhor fixação e compreensão.
 ---
 
 A expressão "aplicação em uma frase" ficou conhecida com o quadro "Soletrando", um concurso de soletração de palavras, do programa "Caldeirão do Huck". Quando o participante ouvia uma palavra, tinha algumas opções de auxílio para facilitar o entendimento e uma dessas opções era justamente ouvir uma frase que continha a palavra que precisava ser soletrada.
