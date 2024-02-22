@@ -46,6 +46,3 @@ OBS: Caso não tenha entendido alguma dessas frases acima, eu indico que você t
 **Plod** é um novo termo que entra no meu vocabulário e espero que tenha ficado claro para você também.
 
 Até mais!
-
-
-
