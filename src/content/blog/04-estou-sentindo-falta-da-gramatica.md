@@ -2,7 +2,7 @@
 title: Estou sentindo falta da gramática
 author: Lander Costa
 pubDatetime: 2024-02-22T12:00:00-03:00
-slug: estou-sentindo-falta-da-gramática
+slug: estou-sentindo-falta-da-gramatica
 featured: false
 draft: false
 tags:
